@@ -39,14 +39,10 @@ header ul li a{
     font-family: georgia;
 }
 .about-me img{
-    margin: 60px;
-    position: relative;
-    left: 70px;
-}
-.about-me img{
     border: 2px solid black;
-    width: 180px;
-    margin: 120px;
+    width: 250px;
+    margin: 110px;
+    padding: 5px
 }
 .about-me h2{
     color: darkviolet;
@@ -57,6 +53,7 @@ header ul li a{
 .my-things{
     color: blueviolet;
     font-family: georgia;
+    margin-bottom: 30px;
 }
 .my-things h1{
     font-size: 25px;
@@ -76,15 +73,17 @@ header ul li a{
 }
 .my-things ul li{
     display: inline-block;
+    padding-left: 20px;
 }
 .my-things ul li img{
-    width: 250px;
+    width: 230px;
     border-radius: 60%;
     border: 2px solid blueviolet;
+    padding: 5px;
 }
 footer{
     background-image: url(../images/tile2.png);
-    padding: 70px;
+    padding: 60px;
 }
 footer h2{
     text-align: center;
