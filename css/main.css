@@ -1,1 +1,135 @@
 /* Inserta tu CSS aqui */
+header {
+    outline: 1px solid black;
+}
+header ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 35px;
+}
+header ul li a{
+    color: black;
+    font-family: georgia;
+}
+.name{
+    background-image: url(../images/background.jpg);
+    height: 540px;
+}
+.name img{
+    margin: 50px;
+    position: relative;
+    left: 195px;
+    top: 40px;
+}
+.name h2{
+    color: white;
+    font-family: georgia;
+    font-size: 35px;
+    text-align: center;
+}
+.name h4{
+    color: white;
+    text-align: center;
+    font-family: georgia;
+    font-size: 20px;
+}
+.about-me{
+    background-image: url(../images/tile2.png);
+    height: 400px;
+    font-family: georgia;
+}
+.about-me img{
+    margin: 60px;
+    position: relative;
+    left: 70px;
+}
+.about-me img{
+    border: 2px solid black;
+    width: 180px;
+    margin: 120px;
+}
+.about-me h2{
+    color: darkviolet;
+    margin: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.my-things{
+    color: blueviolet;
+    font-family: georgia;
+}
+.my-things h1{
+    font-size: 25px;
+    position: relative;
+    left: 75px;
+    top: 40px;
+    padding: 20px;
+}
+.my-things h3{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+.my-things ul{
+    list-style: none;
+    padding: 20px;
+}
+.my-things ul li{
+    display: inline-block;
+}
+.my-things ul li img{
+    width: 250px;
+    border-radius: 60%;
+    border: 2px solid blueviolet;
+}
+footer{
+    background-image: url(../images/tile2.png);
+    padding: 70px;
+}
+footer h2{
+    text-align: center;
+    color: blueviolet;
+    padding-bottom: 40px;
+}
+footer ul {
+    list-style: none;
+    
+}
+footer ul li{
+    display: inline-block;
+}
+footer ul li a{
+    position: relative;
+    left: 280px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
